@@ -6,6 +6,8 @@ Hier gibt es also nix besonderes zu sehen. 😊
 Der plan ist sich hier mit github und den dazugehörigen Features, sich auseinander zusetzen und zu verstehen.  
 Außerdem werden hier ein paar kleine experimentier Projekte gesichert.
 
+Immer schön kreativ bleiebn 🧪
+
 <!--
 
 **Here are some ideas to get you started:**
