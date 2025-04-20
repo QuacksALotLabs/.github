@@ -24,11 +24,12 @@ This is the github oranization of QuacksALot Labs. The idea is to make minecraft
 
 [![JOIN DISCORD](https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2)](https://discord.gg/ghEBQt2WCM)
 
-<br>
 
 </div>
 
-Join the discord via the badge up top and create a thread with the become contributer tag. Then post it with the following content:
+1. Join the discord via the badge up top 
+2. Create a thread with the `become contributer` tag. 
+3. Then post it with the following content:
 
 ```text
 Skills: Short, list, of, skill, with, which, you, can to contribute, ...
