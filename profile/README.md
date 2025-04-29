@@ -1,5 +1,7 @@
 <div align=center>
 
+[![BANNER](../assets/images/tea-banner_rounded.png)](https://github.com/QuacksALotLabs)
+
 <br>
 
 [![JOIN DISCORD](https://img.shields.io/discord/1363548485315727551?style=flat-square&logo=discord&label=discord&color=%235865F2)](https://discord.gg/ghEBQt2WCM) [![ORG STARS](https://img.shields.io/github/stars/QuacksALotLabs?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=gray&color=white)](https://github.com/QuacksALotLabs) [![FOLLOWERS](https://img.shields.io/github/followers/QuacksALotLabs?style=flat-square&logo=github&logoColor=white&label=followers&labelColor=gray&color=white)](https://github.com/QuacksALotLabs)
@@ -27,8 +29,8 @@ This is the github oranization of QuacksALot Labs. The idea is to make minecraft
 
 </div>
 
-1. Join the discord via the badge up top 
-2. Create a thread with the `become contributer` tag. 
+1. Join the discord via the badge up top
+2. Create a thread with the `become contributer` tag.
 3. Then post it with the following content:
 
 ```text
